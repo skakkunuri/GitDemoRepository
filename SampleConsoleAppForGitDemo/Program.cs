@@ -11,6 +11,7 @@ namespace SampleConsoleAppForGitDemo
         static void Main(string[] args)
         {
             // Add some code here. 
+            // Added comment from home to check in the office on Monday
 
         }
     }
