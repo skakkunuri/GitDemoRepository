@@ -10,6 +10,8 @@ namespace SampleConsoleAppForGitDemo
     {
         static void Main(string[] args)
         {
+            // Add some code here. 
+
         }
     }
 }
